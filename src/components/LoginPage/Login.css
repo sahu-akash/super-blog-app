@@ -1,0 +1,32 @@
+.container{  
+    margin-top: 10%;
+    margin-left: 25%;
+    display: grid;
+    width: 382px;  
+    padding: 80px;  
+    border-radius: 15px ;
+    background-color:#eee;  
+      
+}  
+h2{  
+text-align: center;  
+padding: 20px;  
+}  
+label{    
+font-size: 17px;  
+}  
+#Uname{  
+width: 300px;  
+height: 30px;  
+border: none;  
+border-radius: 3px;  
+padding-left: 8px;  
+}  
+#email{  
+width: 300px;  
+height: 30px;  
+border: none;  
+border-radius: 3px;  
+padding-left: 8px;  
+  
+}  

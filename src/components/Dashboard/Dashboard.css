@@ -1,0 +1,35 @@
+.SortAndSearch{
+
+  padding-top:5px;
+  margin: 5%;
+  display: grid;
+  grid-template-columns: 20% 10% 10%;
+  grid-column-gap: 4em;
+
+}
+.partcontainer {
+  padding-top:2px;
+    margin: 5%;
+  display: grid;
+  grid-template-columns: 20% 70%;
+  grid-column-gap: 4em;
+}
+
+.wrapper {
+  display: grid;
+
+  grid-auto-rows: min-content;
+  grid-row-gap: 0.5em;
+}
+
+.btn{
+  text-align: right;
+  width: 100%;
+}
+
+.style {
+  margin-left: 30%;
+  color:black;
+  font-weight:bold; 
+  
+}
